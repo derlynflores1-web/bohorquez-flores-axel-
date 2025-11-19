@@ -1,11 +1,12 @@
-ID;Fecha;Vendedor;Ciudad;Producto;Cantidad;Precio Unitario;Ventas Totales
-1;5/1/2025;Laura G¢mez;Quito;"Laptop Pro 15""";3;1200;3600
+ID;,Fecha;,Vendedor;,Ciudad;,Producto;,Cantidad;,Precio Unitario;,Ventas Totales,
+1;,5/1/2025;,Laura Gomez;,Quito;,"Laptop Pro 15""";3;,1200;,3600,
 2;7/1/2025;Carlos Ruiz;Guayaquil;Smartphone X12;8;750;6000
-3;9/1/2025;Ana Mart¡nez;Cuenca;"Monitor 27"" UltraHD";5;320;1600
-4;10/1/2025;Pedro Silva;Manta;Teclado Mec nico RGB;12;95;1140
-5;12/1/2025;Daniela Torres;Ambato;Impresora Multifunci¢n;2;280;560
-6;13/1/2025;Luis Delgado;Loja;Mouse Inal mbrico Pro;15;45;675
-7;15/1/2025;Sof¡a Herrera;Riobamba;"Tablet 10"" Max";4;420;1680
-8;16/1/2025;Jorge M‚ndez;Machala;Aud¡fonos NoiseCancel;10;110;1100
+3;9/1/2025;Ana Martinez;Cuenca;"Monitor 27"" UltraHD";5;320;1600
+4;10/1/2025;Pedro Silva;Manta;Teclado Mecanico RGB;12;95;1140
+5;12/1/2025;Daniela Torres;Ambato;Impresora Multifuncion;2;280;560
+6;13/1/2025;Luis Delgado;Loja;Mouse Inalambrico Pro;15;45;675
+7;15/1/2025;Sofia Herrera;Riobamba;"Tablet 10"" Max";4;420;1680
+8;16/1/2025;Jorge Mendez;Machala;Audifonos NoiseCancel;10;110;1100
 9;18/1/2025;Elisa Rangel;Santo Domingo;Disco SSD 1TB NVMe;7;150;1050
 10;20/1/2025;Marco Peralta;Portoviejo;Router WiFi 6+;6;130;780
+
