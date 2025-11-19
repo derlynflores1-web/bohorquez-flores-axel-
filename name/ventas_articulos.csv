@@ -1,0 +1,11 @@
+ID,Fecha,Vendedor,Región,Producto,Cantidad,Precio Unitario,Ventas Totales
+001,2025-01-05,Laura Gómez,Norte,"Laptop Pro 15""",3,1200,3600
+002,2025-01-07,Carlos Ruiz,Sur,Smartphone X12,8,750,6000
+003,2025-01-09,Ana Martínez,Centro,"Monitor 27"" UltraHD",5,320,1600
+004,2025-01-10,Pedro Silva,Este,Teclado Mecánico RGB,12,95,1140
+005,2025-01-12,Daniela Torres,Oeste,Impresora Multifunción,2,280,560
+006,2025-01-13,Luis Delgado,Norte,Mouse Inalámbrico Pro,15,45,675
+007,2025-01-15,Sofía Herrera,Centro,"Tablet 10"" Max",4,420,1680
+008,2025-01-16,Jorge Méndez,Sur,Audífonos NoiseCancel,10,110,1100
+009,2025-01-18,Elisa Rangel,Este,Disco SSD 1TB NVMe,7,150,1050
+010,2025-01-20,Marco Peralta,Oeste,Router WiFi 6+,6,130,780
